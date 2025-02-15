@@ -1,6 +1,6 @@
 # ECB Forex Rates
 
-Collects and publishes European Central Bank foreign exchange reference rates to Subsets, enabling instant chart search and visualization. The rates cover 30 currency pairs against EUR and are published daily around 16:00 CET.
+Collects and publishes European Central Bank foreign exchange reference rates to Subsets. The rates cover 30 currency pairs against the EUro and are published on business days around 16:00 CET.
 
 You can explore (and download) individual charts, and many more at [subsets.io/chart?query=ecb%20forex%20rates](https://subsets.io/chart?query=ecb%20forex%20rates).
 
