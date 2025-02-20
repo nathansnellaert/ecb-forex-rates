@@ -657,13 +657,13 @@ files = [
 
 [[package]]
 name = "subsetsio"
-version = "0.7.0"
+version = "0.7.4"
 description = "Official Python SDK for the Subsets API"
 optional = false
 python-versions = ">=3.11"
 files = [
-    {file = "subsetsio-0.7.0-py3-none-any.whl", hash = "sha256:85187c496cd5008a418a8203e32d61d4c6b3ec7f19383816ba8bab9b0e32670e"},
-    {file = "subsetsio-0.7.0.tar.gz", hash = "sha256:bda297d55bba65b70391a43498774c9ade2c32ad1fcac97d0bde7269b36454ee"},
+    {file = "subsetsio-0.7.4-py3-none-any.whl", hash = "sha256:5777019bbe35d906b3e85d5959007afa978894dd4e868cce5fb8772a85ac2043"},
+    {file = "subsetsio-0.7.4.tar.gz", hash = "sha256:fd6a620fbe7c7b49c0f84e4e5c19bc94a084daa8d6b880b4341d87557dfba362"},
 ]
 
 [package.dependencies]
@@ -860,4 +860,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "6b8064b97e2739ff5d73852d58a57d080889c5b931a35c86c59ed8d26359e061"
+content-hash = "fec401db32813e008f5d7db88c8ae2c5122b66546f7a0c815422fdaeef4002e7"
