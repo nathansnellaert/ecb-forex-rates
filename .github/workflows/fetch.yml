@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: nathansnellaert/subsets-ghactions-template@v0.1
         with:
-          run_command: poetry run python src/fetch_rates.py --start-date "2020-01-01" && poetry run python src/manage_charts.py
+          run_command: poetry run python src/fetch_rates.py --start-date "2020-01-01"
           api_key: ${{ secrets.SUBSETS_API_KEY }}
           commit_after_run: true
